@@ -1,9 +1,7 @@
 # 🔐 Caesar Cipher Program
 
-**Author:** Hilda Liu  
-**Class:** 7th Grade Computer Science  
-**Project:** Caesar Cipher Program  
-**Date:** [TODAY'S DATE]  
+## 👩‍🏫 Intro to Computer Science – Ms. Liu  
+**All instructional content created by Hilda Liu**  
 
 ---
 
